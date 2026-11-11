@@ -1,0 +1,26 @@
+NIDHI BIRTHDAY SURPRISE — FINAL GITHUB PAGES PACKAGE
+
+IMPORTANT: Keep all filenames and folder names exactly as they are.
+
+FILES IN THIS PACKAGE
+- index.html  (the website; must be at the repository ROOT)
+- photos/     (contains memory-01.jpg through memory-09.jpg)
+- Gibran Alcocer - Idea 10 Slowed Reverb.wav  (your selected background song)
+- manish-voice.mp3  (your supplied voice note)
+
+HOW TO UPLOAD
+1. Extract this ZIP on your phone/computer.
+2. Open the extracted folder named "minee".
+3. Upload ALL items INSIDE minee into the ROOT of your existing GitHub repository.
+   Upload index.html, the photos folder, and both audio files together.
+4. If GitHub asks whether to replace index.html or existing files, choose replace/overwrite.
+5. Commit the changes. Keep GitHub Pages set to main branch and /(root).
+
+Do NOT upload only the ZIP file. Do NOT upload the outer "minee" folder as a nested folder.
+Do NOT rename photos, the photos folder, or either audio file.
+
+MUSIC NOTE
+The page attempts to start music after about 2.5 seconds. Phones and browsers may block
+sound autoplay until the visitor taps once; if that happens, use the visible "Tap for music"
+button. The voice-note button lowers the background music while the voice plays, then
+restores it when the voice note ends.
